@@ -1,0 +1,8 @@
+lw t1 3(a0)
+lw t0 2(s0)
+lw t2 1(t0)
+lw t1 0(x0)
+lw ra 40(x0)
+lw t2 4(x0)
+lw t1 16(x0)
+lw t0, 17(t2)

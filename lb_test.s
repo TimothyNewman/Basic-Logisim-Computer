@@ -1,0 +1,7 @@
+lb t1 3(a0)
+lb t0 2(s0)
+lb t2 1(t0)
+lb t1 0(x0)
+lb ra 40(x0)
+lb t2 4(x0)
+lb t1 16(x0)
